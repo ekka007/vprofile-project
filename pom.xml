@@ -179,6 +179,7 @@
                         <contextPath>/</contextPath>
                     </webApp>
                 </configuration>
+		    
             </plugin>
 		<!-- CODE COVERAGE -->
  		    <plugin>
